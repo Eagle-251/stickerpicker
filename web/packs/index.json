@@ -1,7 +1,10 @@
 {
   "packs": [
     "Tom_jerry_LizF.json",
-    "BrokenCats.json"
+    "BrokenCats.json",
+    "Meme_stickers.json",
+    "BugsBunnyJr.json",
+    "Tweety_By_OsmerOmar.json"
   ],
   "homeserver_url": "https://matrix.susflatnine.xyz"
 }
